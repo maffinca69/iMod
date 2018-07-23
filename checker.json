@@ -1,24 +1,8 @@
 {
-    "data": "dbfriends",
-    "friends": [
+   "imod": [
         {
-            "id": "1",
-            "name": "Andrew",               
-            "city": "Moscow",               
-            "contacts": {
-                "mobile": "+7 0000000",
-                "email": "andrew@androiddocs.ru",
-                "skype": "andrew"
-            }
-        },
-        {
-            "id": "2",
-            "name": "Ivan",
-            "city": "Kiev",
-            "contacts": {
-                "mobile": "+38 0000000",
-                "email": "ivan@androiddocs.ru",
-                "skype": "ivan"
+          "update": {
+              "version":"5.17",
             }
         }
     ]
