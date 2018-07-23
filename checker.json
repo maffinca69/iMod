@@ -1,10 +1,1 @@
-{
-   "imod":"imod";
-   "imod": [
-        {
-          "update": {
-              "version":"5.17",
-            }
-        }
-    ]
-}
+{"imod":{"version":"5.17"}}
